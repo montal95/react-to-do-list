@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Water the plants",
+      "timeStart": "2020-08-31T03:17:54.513Z",
+      "deadline": "2020-09-02T03:17:54.513Z",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Take out the trash",
+      "timeStart": "2020-08-31T03:17:54.513Z",
+      "deadline": "2020-09-03T03:17:54.513Z",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Pay utilities",
+      "timeStart": "2020-08-31T03:17:54.513Z",
+      "deadline": "2020-09-04T03:17:54.513Z",
+      "completed": true
+    },
+    {
+      "name": "Clean the box in the back room",
+      "deadline": "2020-08-31T23:52:00.000Z",
+      "timeStart": "2020-08-31T21:49:43.135Z",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "Finish App",
+      "deadline": "2020-09-01T20:29:00.000Z",
+      "timeStart": "1970-01-01T00:00:00.000Z",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
